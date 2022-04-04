@@ -34,6 +34,7 @@
   </a>
   
   ![Snake animation](https://github.com/brunoh5/brunoh5/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunoh5&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
