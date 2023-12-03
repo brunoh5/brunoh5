@@ -39,5 +39,5 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunoh5&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunoh5&repo=rentx-ignite&show_owner=true&theme=omni)](https://github.com/brunoh5/rentx-ignite)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunoh5&repo=03-ignews-ignite-nextjs&show_owner=true&theme=omni)](https://github.com/brunoh5/03-ignews-ignite-nextjs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunoh5&repo=rentx-ignite&show_owner=true&theme=omni)](https://github.com/brunoh5/03-api-solid)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunoh5&repo=03-ignews-ignite-nextjs&show_owner=true&theme=omni)](https://github.com/brunoh5/fintrack-web)
