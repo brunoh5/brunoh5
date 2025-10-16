@@ -1,12 +1,11 @@
 ## 🚀 Sobre mim
 
-Sou desenvolvedor fullstack, quero chegar no Ethical hacking e estou aprendendo a montar servidores.
+Sou desenvolvedor fullstack, por mim eu aprenderia tudo que é possível, porém pretendo aprender Javascript, Java, PHP e quem sabe um C.
 
-- 👨‍🎓 Ciencia da computação - 2° período
+- 👨‍🎓 Ciencia da computação - 1° período
 - 💡 Deixando de ser um programador chaves.
 - ✨ curso.dev
 - ⚡ Fun Fact: Mesmo passando raiva Darksouls é muito bom.
-- ⚡ Fun Fact: Usando o gosto por Minecraft vou aprender a montar e configurar servidores (Comecei com o Ubuntu Server)
 
 ## 🧑🏽‍🎓 Atualmente estou aprendendo
 
